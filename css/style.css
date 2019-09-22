@@ -1776,3 +1776,7 @@ button {
   text-transform: capitalize;
   font-size: 15px;
 }
+.persona{
+  display: block;
+  font-size: 15px;
+}
